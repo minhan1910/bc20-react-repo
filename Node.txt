@@ -1,0 +1,17 @@
+**** cách chia nhánh bài mỗi buổi ****
+
+
+
+**************************************
+
+html
+js
+
+Bên reactjs nó sẽ thành 1 file thân thiện vs trình duyệt xml
+=> jsx
+
+======= Buổi 1 =========
+* Component:
+    -Stateful Component  : class
+    -Stateless Component : funciton
+
