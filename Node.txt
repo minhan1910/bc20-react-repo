@@ -14,4 +14,19 @@ Bên reactjs nó sẽ thành 1 file thân thiện vs trình duyệt xml
 * Component:
     -Stateful Component  : class
     -Stateless Component : funciton
+* SPAs
+======= Buổi 2 =========
+* Install BS4
+* Rendering Elements: {}
+* Handling Events: onClick={}
+* State : Nếu như state thay đổi => Component render lại
+* List keys: Duyệt mảng có keys
+======= Buổi 3 =========
+Communication
+    -Props: Truyền dữ liệu từ Component cha -> con
+    -Lifting State Up: Truyền dữ liệu từ Component con -> cha
+
+
+
+
 
